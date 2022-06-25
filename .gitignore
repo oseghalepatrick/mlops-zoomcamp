@@ -8,3 +8,5 @@ mlruns/
 mlflow.db
 output/
 homework.md
+*.bin
+*.parquet
